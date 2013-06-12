@@ -50,7 +50,6 @@ GEM
     mail (2.5.4)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
-    middleman-blog (0.1.5)
     mime-types (1.23)
     multi_json (1.7.6)
     pg (0.15.1)
@@ -106,7 +105,6 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
-  middleman-blog
   pg
   rails (= 3.2.13)
   sass-rails (~> 3.2.3)
